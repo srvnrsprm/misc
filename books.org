@@ -1,0 +1,73 @@
+#+NAME: PROGRAMMING
+| S.No. | Date             | Title                             | Seller              | Price | Read |
+|-------+------------------+-----------------------------------+---------------------+-------+------|
+|     1 | <2022-10-27>     | Java Server Faces In Action       | Payal Enterprises   |   335 |      |
+|     2 | <2022-12-16>     | CSS Secrets: Better Solutions     | Shroff Publishers   |  1500 |      |
+|-------+------------------+-----------------------------------+---------------------+-------+------|
+|     3 | <2023-02-12>     | Ant in Action: Java Development   | J B Books Sellers   |   390 |    1 |
+|     4 | <2023-04-09>     | jQuery in Action, 2ed             | Payal Enterprises   |   600 |      |
+|     5 | <2023-08-24>     | CGI Programming with perl         | Fair n Frank        |   250 |      |
+|     6 | <2023-10-07>     | Learning Vi and Vim editor        | Shroff Publishers   |   400 |      |
+|     7 | <2023-10-07>     | Programming Perl                  | Fair n Frank        |   300 |      |
+|     8 | <2023-12-14>     | Emacs Lisp Reference Manual       | Cocoblu Retail      |  1465 |      |
+|-------+------------------+-----------------------------------+---------------------+-------+------|
+|     9 | <2024-01-21 Sun> | Practical postgresql              | Fair n Frank        |   770 |      |
+|    10 | <2024-02-18 Sun> | Bash cookbook                     | Saar Communications |   700 |    1 |
+|    11 | <2024-03-08 Fri> | Css definitive guide              | Saar Communications |   800 |      |
+|    13 | <2024-10-12 Sat> | John Barlow - excel models        | Infinity Books      |   300 |      |
+|    14 | <2024-12-07 Sat> | Java swing                        | Imperial Books      |   775 |      |
+|    15 | <2024-12-07 Sat> | Java server pages(Hans)           | Book Town           |   278 |      |
+|    16 | <2024-12-12 Sat> | Graphic Java: Mastering the awt   | Payal Enterprises   |   595 |      |
+|    17 | <2024-12-12 Sat> | Jquery ui in action               | Imperial Books      |   630 |      |
+|    18 | <2024-12-14 Thu> | Java cookbook                     | Shroff Publishers   |   731 |    1 |
+|-------+------------------+-----------------------------------+---------------------+-------+------|
+|    19 | <2025-07-16>     | Javascript & Jquery, Miss.Manal   | Imperial Books      |   190 |      |
+|    20 | <2025-07-16>     | Learning Java                     | Imperial Books      |   540 |      |
+|    21 | <2025-07-11>     | Java complete reference, 9e       | Tej Pal Books       |   575 |    1 |
+|    22 | <2025-07-28>     | Python Complete Reference         | Cocoblu Retail      |   671 |      |
+|    23 | <2025-09-10>     | Maven Definitive Guide            | Imperial Books      |   514 |      |
+|    24 | <2025-09-10>     | Head First Servlets & JSP         | Imperial Books      |   450 |      |
+|    25 | <2025-09-10>     | Effective Perl programming        | STM Traders         |   450 |      |
+|    26 | <2025-09-20>     | GWT In action                     | NS Book Shop        |   450 |      |
+|    27 | <2025-09-20>     | PHP Complete reference            | Tej Pal Books       |   438 |      |
+|    28 | <2025-09-20>     | Python Lib Reference Manual       | Cocoblu Retail      |   532 |      |
+|    29 | <2025-10-16>     | Java complete reference, 7e       | HH Books            |   300 |    1 |
+|    30 | <2025-10-16>     | Linux Security Cookbook           | Imperial Books      |   500 |      |
+|    31 | <2025-10-16>     | Node up and running               | Imperial Books      |   310 |      |
+|    32 | <2025-10-16>     | Advanced Perl programming         | Imperial Books      |   450 |      |
+|    33 | <2025-10-16>     | Wicked cool shell scripts         | Imperial Books      |   260 |      |
+|    34 | <2025-10-16>     | AngularJs Less code, More fun     | Imperial Books      |   375 |      |
+|    35 | <2025-10-16>     | Java Server Faces                 | Imperial Books      |   305 |      |
+|    36 | <2025-10-16>     | Learning PHP5                     | Imperial Books      |   325 |      |
+|    37 | <2025-10-16>     | Core Java, Volume 2 Advanced      | Oracle Book's       |   364 |      |
+|    38 | <2025-09-17>     | Beginners perl for Bioinformatics | Used Books World    |   400 |      |
+|    39 | <2025-09-24>     | Apache Tomcat                     | MyPustak            |   200 |      |
+|    40 | <2025-09-24>     | Wicked Cool Perl Scripts          | MyPustak            |   150 |      |
+|-------+------------------+-----------------------------------+---------------------+-------+------|
+|       |                  |                                   |                     | 19568 |    5 |
+#+TBLFM: @>$5=vsum(@I..@IIIII)::@>$>=vsum(@I..@IIIII)
+
+#+NAME: Novels                 
+| S.No. | Date             | Title                    | Seller              | Price | Read |
+|-------+------------------+--------------------------+---------------------+-------+------|
+|     1 | <2023-07-02>     | Good Year                | Cocoblu Retail      |   116 |    1 |
+|     2 | <2023-07-02>     | Dream Story              | uRead-Store         |   400 |    1 |
+|-------+------------------+--------------------------+---------------------+-------+------|
+|     3 | <2024-10-09 Wed> | Unnai Pol Oruvan         | Kumari veliyeetagam |   250 |    1 |
+|     4 | <2024-12-12 Thu> | Scarlet pimpernel        | Must read           |   218 |    1 |
+|     5 | <2024-12-14 Sat> | Limitless                | Brilliant books     |   300 |    1 |
+|-------+------------------+--------------------------+---------------------+-------+------|
+|     6 | <2025-04-16>     | One Morning in Sarajevo  | Cocoblu Retail      |   480 |    1 |
+|     7 | <2025-04-27>     | Barbarains at the Gate   | uRead-Store         |   480 |      |
+|     8 | <2025-04-27>     | Bin Ladens               | Fort Book Dist.     |   500 |    1 |
+|     9 | <2025-04-27>     | Pygmalion - Bernard Shaw | Cocoblu Retail      |   119 |      |
+|    10 | <2025-07-08>     | Call me By your name     | Cocoblu Retail      |   384 |      |
+|    11 | <2025-07-08>     | Jurassic Park            | uRead-Store         |   386 |    1 |
+|    12 | <2025-07-08>     | Funny Boy                | uRead-Stroe         |   272 |      |
+|    13 | <2025-10-16 Thu> | Vittu vidu karuppa       | Abhirami Books      |   300 |    1 |
+|    14 | <2025-10-16 Thu> | Krishnadasi              | Abhirami Books      |   260 |      |
+|    15 | <2025-08-29>     | GodFather                | Buy Books India     |   449 |    1 |
+|    16 | <2025-08-29>     | Last Mughal              | Buy Books India     |   454 |      |
+|-------+------------------+--------------------------+---------------------+-------+------|
+|       |                  |                          |                     |  5368 |   10 |
+#+TBLFM: @>$>>=vsum(@I..@IIII)::@>$>=vsum(@I..@IIII)
